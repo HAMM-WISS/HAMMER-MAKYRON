@@ -55,5 +55,3 @@ for a in range(100):
     DossWeb(ip)
     DossWeb(ip)
     DossWeb(ip)
-    DossWeb(ip)
-    DossWeb(ip)
