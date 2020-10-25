@@ -49,12 +49,7 @@ def DossWeb(ip):
             print ("[!] Faild HAMMERING [+]")
             print ("[+] Maybe Server is Dead [+]")
 while True:
+    os.system("clear")
+    time.sleep(1)
     for data in range(100):
         DossWeb(ip)
-
-os.system("clear")
-time.sleep(2)
-for a in range(100):
-    DossWeb(ip)
-    DossWeb(ip)
-    DossWeb(ip)
